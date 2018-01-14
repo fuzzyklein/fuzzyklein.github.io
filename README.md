@@ -1,2 +1,2 @@
-# fuzzyklein.github.io
-User Web Site
+# Fuzzy Klein
+Multi-Lingual User Web Site
