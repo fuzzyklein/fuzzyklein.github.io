@@ -1,4 +1,10 @@
-Multi-Lingual User Web Site
+Hi. Welcome to my GitHub Pages Web site. I'm just a hobbyist, so don't expect too much
+out of it, please.
+
+# OUtline
+# Documentation
+## Linux Documentation
+- [Linux.org](https://www.linux.org/)
 # Markdown
 - [Markdown Syntax](https://guides.github.com/features/mastering-markdown/)
 
